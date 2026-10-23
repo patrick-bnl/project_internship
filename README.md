@@ -1,8 +1,8 @@
-\# Communication Bus Modernization Study
+# Communication Bus Modernization Study
 
 
 
-\## Context
+## Context
 
 
 
@@ -14,31 +14,31 @@ The project focuses on understanding the current integration landscape and evalu
 
 
 
-\## Objectives
+## Objectives
 
 
 
-\- Understand the current integration architecture
+- Understand the current integration architecture
 
-\- Document existing communication patterns
+- Document existing communication patterns
 
-\- Gather business and technical requirements
+- Gather business and technical requirements
 
-\- Study Apache Kafka and Apache Pulsar
+- Study Apache Kafka and Apache Pulsar
 
-\- Compare candidate technologies
+- Compare candidate technologies
 
-\- Build a Proof of Concept (PoC)
+- Build a Proof of Concept (PoC)
 
-\- Produce recommendations
-
-
-
-\## Repository Structure
+- Produce recommendations
 
 
 
-\### Fundamentals
+## Repository Structure
+
+
+
+### Fundamentals
 
 
 
@@ -46,7 +46,7 @@ Core concepts required to understand distributed systems and enterprise integrat
 
 
 
-\### Messaging
+### Messaging
 
 
 
@@ -54,7 +54,7 @@ Messaging concepts, queues, topics, delivery guarantees and reliability patterns
 
 
 
-\### Protocols
+### Protocols
 
 
 
@@ -62,7 +62,7 @@ Communication protocols and standards used by enterprise systems.
 
 
 
-\### Technologies
+### Technologies
 
 
 
@@ -70,7 +70,7 @@ Research notes on current and candidate technologies.
 
 
 
-\### Project
+### Project
 
 
 
@@ -78,33 +78,33 @@ Project-specific notes, interviews, architecture diagrams and decisions.
 
 
 
-\## Learning Roadmap
+## Learning Roadmap
 
 
 
-1\. Distributed Systems
+1. Distributed Systems
 
-2\. Middleware
+2. Middleware
 
-3\. Enterprise Service Bus
+3. Enterprise Service Bus
 
-4\. Messaging Systems
+4. Messaging Systems
 
-5\. JMS
+5. JMS
 
-6\. Event-Driven Architecture
+6. Event-Driven Architecture
 
-7\. TIBCO Rendezvous
+7. TIBCO Rendezvous
 
-8\. Oracle WebLogic
+8. Oracle WebLogic
 
-9\. Apache Kafka
+9. Apache Kafka
 
-10\. Apache Pulsar
+10. Apache Pulsar
 
 
 
-\## References
+## References
 
 
 
